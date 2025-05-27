@@ -1,0 +1,13 @@
+jobs:
+  build:
+  deploy:
+    name: Deploy
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: Download artifact
+        use: actions/download-artifact@v3
+        with:
+          github_tokens: ${{secrets.GITHUB_TOKEN}}
+          publis_dir: ./dist
