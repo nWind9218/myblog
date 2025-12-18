@@ -1,12 +1,37 @@
-# React + Vite
+# 👋 Hello, I'm *Hero Nguyen* 😎
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About Me
 
-Currently, two official plugins are available:
+I'm currently 19 years old, a passionate developer who loves creating things. This blog is where I showcase everything I've built and share stories about my career journey 🥰
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 My Projects
 
-## Expanding the ESLint configuration
+### Explorer Series
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Hero Hello (Explorer 01)**
+   - [View Project](https://github.com/nWind9218/Explorer1_Hero-Hello)
+   - Description: [Add a brief description of what this project does]
+
+2. **Hero Agent Factory (Explorer 02)**
+   - Status: Coming soon...
+
+3. **Hero Driver (Explorer 03)**
+   - Status: Coming soon...
+
+## 🛠️ Tech Stack
+
+[Add technologies you use, for example:]
+- React
+- Vite
+- JavaScript/CSS
+
+## 📫 Connect With Me
+
+[Add your social media links here:]
+- GitHub: [nWind9218](https://github.com/nWind9218)
+- Email: evkingwind9218@gmail.com
+- LinkedIn: [Hero Nguyen](https://www.linkedin.com/in/manh-nguyen-ngoc-tien-737444283/)
+
+---
+
+*Last updated: 18-Dec-2025*
